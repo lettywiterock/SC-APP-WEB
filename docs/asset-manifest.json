@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7cc47a01.css",
-    "main.js": "/static/js/main.243d4826.js",
-    "index.html": "/index.html",
-    "main.7cc47a01.css.map": "/static/css/main.7cc47a01.css.map",
-    "main.243d4826.js.map": "/static/js/main.243d4826.js.map"
+    "main.css": "https://lettywiterock.github.io/SC-APP-WEB/static/css/main.7cc47a01.css",
+    "main.js": "https://lettywiterock.github.io/SC-APP-WEB/static/js/main.0f6bc699.js",
+    "index.html": "https://lettywiterock.github.io/SC-APP-WEB/index.html",
+    "main.7cc47a01.css.map": "https://lettywiterock.github.io/SC-APP-WEB/static/css/main.7cc47a01.css.map",
+    "main.0f6bc699.js.map": "https://lettywiterock.github.io/SC-APP-WEB/static/js/main.0f6bc699.js.map"
   },
   "entrypoints": [
     "static/css/main.7cc47a01.css",
-    "static/js/main.243d4826.js"
+    "static/js/main.0f6bc699.js"
   ]
 }
